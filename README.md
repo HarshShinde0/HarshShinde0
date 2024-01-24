@@ -23,7 +23,7 @@ I am an open-source developer, I have honed my skills and cultivated a deep pass
 ![](https://github-readme-stats.vercel.app/api?username=HarshShinde0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HarshShinde0&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshShinde0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<iframe src="https://kaggle-card.chienhsiang-hung.eu.org/api/basic?harshshinde8" width="100%" height="300" style="border:none; min-width: 800px;"></iframe>
+![](https://kaggle-card.chienhsiang-hung.eu.org/api/basic?harshshinde8)<br/> " width="100%" height="300" style="border:none; min-width: 800px;"></iframe>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
