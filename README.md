@@ -1,4 +1,4 @@
-# Hi, I'm [Harsh Shinde](https://github.com/HarshShinde0)👋
+# Hi, I'm [Harsh Shinde](harshshinde.vercel.app)👋
 
 I am an open-source developer, I have honed my skills and cultivated a deep passion for continuous learning. With a solid foundation in web development.Beyond the realm of coding, I find solace and inspiration in the harmonious melodies of music. I am an avid reader, indulging in novels that transport me to different worlds and ignite my imagination.In my quest for growth, I embrace the opportunity to explore and learn new coding languages during my free time. Each new language represents a gateway to expanding my repertoire and broadening my problem-solving capabilities.
 
@@ -20,7 +20,6 @@ I am an open-source developer, I have honed my skills and cultivated a deep pass
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HarshShinde0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HarshShinde0&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshShinde0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg-allround?harshshinde8)<br/>
@@ -34,7 +33,7 @@ I am an open-source developer, I have honed my skills and cultivated a deep pass
 
 # 🔗Links:-
 
-- Portfolio: https://github.com/HarshShinde0
+- Portfolio: harshshinde.vercel.app
 - LinkedIn: https://www.linkedin.com/in/harshshinde/
 - Twitter: https://twitter.com/Harsh_Shinde_
 - vsc: https://code.visualstudio.com
