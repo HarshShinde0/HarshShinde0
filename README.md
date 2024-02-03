@@ -29,7 +29,7 @@ I am an open-source developer, I have honed my skills and cultivated a deep pass
 
 # 🔗Links:-
 
-- Portfolio: harshshinde.vercel.app
+- Portfolio: https://harshshinde.vercel.app
 - LinkedIn: https://www.linkedin.com/in/harshshinde/
 - Twitter: https://twitter.com/Harsh_Shinde_
 - vsc: https://code.visualstudio.com
