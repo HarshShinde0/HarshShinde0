@@ -22,7 +22,6 @@ I am an open-source developer, I have honed my skills and cultivated a deep pass
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HarshShinde0&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshShinde0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg-allround?harshshinde8)<br/>
 
 ### 🔝 Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HarshShinde0&limit=5&theme=dark&combine_all_yearly_contributions=true)
