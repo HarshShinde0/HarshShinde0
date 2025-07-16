@@ -13,9 +13,6 @@ I am an open-source developer, I have honed my skills and cultivated a deep pass
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshshinde/) [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@Harsh_Shinde_) [![Mail](https://img.shields.io/badge/-HarshShinde-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lmfphks@icloud.com) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=HarshShinde0&theme=dark&hide_border=false)<br/>
-
 # 🔗Links:-
 - Portfolio: http://harshshinde.me/
 - LinkedIn: https://www.linkedin.com/in/harshshinde/
