@@ -16,7 +16,7 @@
 </td>
 <td width="40%">
 
-<img src="https://wakatime.com/share/@Harshinde/b8648e6a-47d4-45bc-bf41-1b72e8696f1b.svg" width="450"/>
+<img src="https://wakatime.com/share/@Harshinde/b8648e6a-47d4-45bc-bf41-1b72e8696f1b.svg" width="350"/>
 
 </td>
 </tr>
