@@ -4,7 +4,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="70%">
   
 -  I’m currently working on remote sensing and its applications.
 -  I am an open-source developer with experience in Python, Cloud computing, and geospatial technologies. I’m passionate about continuous learning and enjoy exploring new programming languages and tools in my free time.
@@ -14,7 +14,7 @@
 -  Twitter: https://twitter.com/Harsh_Shinde_/
 
 </td>
-<td width="40%">
+<td width="30%">
 
 <img src="https://wakatime.com/share/@Harshinde/b8648e6a-47d4-45bc-bf41-1b72e8696f1b.svg" width="350"/>
 
